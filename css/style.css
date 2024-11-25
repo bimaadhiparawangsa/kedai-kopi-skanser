@@ -122,7 +122,7 @@ body {
 /* Shopping Cart */
 
 #shopping-cart-button {
-  position: relative
+  position: relative;
 }
 
 #shopping-cart-button .quantity-badge {
